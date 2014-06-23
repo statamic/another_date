@@ -10,7 +10,7 @@ Drop this repository's `another_date` folder into your site's `_add-ons` folder.
 ## Usage
 
 ```html
-Yesterday way {{ another_date when="yesterday" format="F j, Y" }}.
+Yesterday was {{ another_date when="yesterday" format="F j, Y" }}.
 ```
 
 ## Parameters
