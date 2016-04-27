@@ -1,4 +1,4 @@
-# Another Date
+# Another Date ![Statamic v1](https://img.shields.io/badge/statamic-v1-lightgrey.svg?style=flat-square)
 
 Display a date other than the current date on your Statamic site. (Note that you can also display the current date with this add-on.)
 
